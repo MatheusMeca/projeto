@@ -53,3 +53,11 @@
   - Informar tipo de produto
 - **Gestão de agenda**:
   - Consultar agendamentos
+
+# Caso de uso
+
+![os_casos_de_uso](documentacao/uml/os_casos_de_uso.jpg)
+
+# Diagrama de classe
+
+![diagrama_de_classe](documentacao/uml/diagrama_de_classe.jpg)
