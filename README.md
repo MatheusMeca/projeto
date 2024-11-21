@@ -14,6 +14,18 @@
   - Pagar matrícula
   - Consultar frequência
 
+### Cadastro de Pessoa Física:
+- **Login e Segurança**:
+  - Fazer login
+  - Criar senha
+- **Dados Pessoais**:
+  - Informar CPF
+  - Informar RG
+- **Relacionamentos e dependências:**
+  - Informar se é responsável por algum aluno
+  - Informar dependente
+  -Associar a matrícula de um aluno
+
 ### Cadastro de Pessoa Jurídica:
 - **Dados básicos**:
   - Informar CNPJ
