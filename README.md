@@ -94,7 +94,7 @@ O aluno terá acesso ao seu perfil e poderá consultar suas informações acadê
 ---
 
 * Cadastro de Pessoa Jurídica:
-Cenário Principal:
+* Cenário Principal:
 O usuário escolhe o tipo de cadastro “Pessoa Jurídica”.
 O sistema exibe a tela de opções:
 Informar CNPJ
@@ -113,7 +113,7 @@ A empresa estará cadastrada no sistema e poderá acessar as funcionalidades dis
 ---
 
 * Cadastro de Pessoa Física:
-Cenário Principal:
+* Cenário Principal:
 O usuário escolhe o tipo de cadastro “Pessoa Física”.
 O sistema exibe a tela de opções:
 Cadastrar pessoa física
@@ -143,7 +143,7 @@ A pessoa física estará cadastrada e, se for responsável por um aluno, essa in
 ---
 
 * Cadastro de Professor:
-Cenário Principal:
+* Cenário Principal:
 O usuário escolhe o tipo de cadastro “Professor”.
 O sistema exibe a tela de opções:
 Informar nível de graduação
@@ -176,7 +176,7 @@ O professor terá acesso às funcionalidades acadêmicas e administrativas.
 ---
 
 * Cadastro de Fornecedor:
-Cenário Principal:
+* Cenário Principal:
 O usuário escolhe o tipo de cadastro “Fornecedor”.
 O sistema exibe a tela de opções:
 Cadastrar fornecedores
