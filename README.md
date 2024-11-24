@@ -1,6 +1,6 @@
 # Universidade Estelar
-### grupo 30
-Nós da Universidade educas desenvolvemos os seguintes protótipos:
+### GRUPO 30
+Nós da Universidade desenvolvemos os seguintes protótipos:
 ### diagrama de classe
 nosso diagrama de classes é formado por 8 tabelas, sendo elas:
 Banco;
