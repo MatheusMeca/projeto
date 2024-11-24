@@ -14,7 +14,7 @@ Universidade;
 a imagem a baixo retrata nosso diagrama:
 ![diagrama de classe](https://raw.githubusercontent.com/MatheusMeca/projeto/refs/heads/master/documentacao/uml/diagrama_de_classe.jpg)
 
-### casos de uso
+### Casos de uso:
 Nossos casos de uso são:
 
 Cenário Principal:
@@ -200,19 +200,32 @@ Pós-condição:
 O fornecedor estará registrado e poderá acessar as funcionalidades do sistema.
 ---
 Abaixo está a nosso diagrama dos casos de uso:
+
 ![](https://raw.githubusercontent.com/MatheusMeca/projeto/refs/heads/master/documentacao/uml/os_casos_de_uso.jpg)
 
-Também desenvolvemos os prótotipos da telas de cadastro:
+Também desenvolvemos os prótotipos da telas de cadastro, onde deve ser necessário a seleção do tipo de cadastro à ser realizado:
+
+###Tela de seleção de cadatro:
 
 ![tela inicial](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_3.png?token=GHSAT0AAAAAAC223IZUZEAMY5LAEBU4NZPQZ2CAMTQ)
 
+###Cadastro Aluno:
+
 ![cadastro calouro](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_4.png?token=GHSAT0AAAAAAC223IZU6NQTZLTQVPLBK3MWZ2CANZQ)
+
+###Cadastro de novo Fornecedor:
 
 ![cadastro fornecedor](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_5.png?token=GHSAT0AAAAAAC223IZVUXANENXTUAW6R72YZ2CAO2A)
 
+###Cadastro Pessoa Física:
+
 ![cadastro pf](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_6.png?token=GHSAT0AAAAAAC223IZVCVGVHUGMCJAPZ76OZ2CAFZA)
 
+###Cadastro Pessoa Jurídica: 
+
 ![cadastro pj](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_8.png?token=GHSAT0AAAAAAC223IZUBAK3TM4BVSPSNYTKZ2CAHKA)
+
+###Cadastro Professor:
 
 ![cadastro professor](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_7.png?token=GHSAT0AAAAAAC223IZVO3DLVJ7VNTDVKCKMZ2CAGYA)
 
