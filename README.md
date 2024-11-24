@@ -1,24 +1,26 @@
 # Universidade Estelar
 ### GRUPO 30
 Nós da Universidade desenvolvemos os seguintes protótipos:
-### diagrama de classe
-nosso diagrama de classes é formado por 8 tabelas, sendo elas:
-Banco;
-Usuário;
-Pessoa Física;
-Pessoa Jurídica;
-Aluno;
-Prefessor;
-Fornecedores;
-Universidade;
-a imagem a baixo retrata nosso diagrama:
+### Diagrama de classe
+Nosso diagrama de classes é formado por 8 tabelas, sendo elas:
+* Banco;
+* Usuário;
+* Pessoa Física;
+* Pessoa Jurídica;
+* Aluno;
+* Professor;
+* Fornecedores;
+* Universidade;
+
+A imagem a baixo retrata nosso diagrama:
 ![diagrama de classe](https://raw.githubusercontent.com/MatheusMeca/projeto/refs/heads/master/documentacao/uml/diagrama_de_classe.jpg)
 
 ### Casos de uso:
 Nossos casos de uso são:
 
-Cenário Principal:
-O usuário escolhe a opção “Aluno”.
+Cenário Principal para **Aluno**:
+
+* O usuário escolhe a opção “Aluno”.
 O sistema exibe a tela de opções:
 Fazer login
 Criar senha
@@ -39,8 +41,9 @@ O usuário insere os dados corretamente.
 O sistema verifica o registro.
 Existe.
 O sistema retorna sucesso.
+
 ---
-Cenário Secundário:
+* Cenário Secundário:
 O usuário escolhe a opção “Aluno”.
 O sistema exibe a tela de opções:
 Fazer login
@@ -62,7 +65,8 @@ O sistema analisa a nova forma de pagamento.
 Forma de pagamento válida.
 O sistema retorna “Pagamento efetuado com sucesso”.
 ---
-Cenário Secundário:
+
+* Cenário Secundário:
 O usuário escolhe a opção “Aluno”.
 O sistema exibe a tela de opções:
 Fazer login
@@ -88,7 +92,8 @@ O usuário deve estar registrado no sistema como Aluno.
 Pós-condição:
 O aluno terá acesso ao seu perfil e poderá consultar suas informações acadêmicas.
 ---
-Cadastro de Pessoa Jurídica:
+
+* Cadastro de Pessoa Jurídica:
 Cenário Principal:
 O usuário escolhe o tipo de cadastro “Pessoa Jurídica”.
 O sistema exibe a tela de opções:
@@ -106,7 +111,8 @@ O usuário deve ter um CNPJ válido.
 Pós-condição:
 A empresa estará cadastrada no sistema e poderá acessar as funcionalidades disponíveis.
 ---
-Cadastro de Pessoa Física:
+
+* Cadastro de Pessoa Física:
 Cenário Principal:
 O usuário escolhe o tipo de cadastro “Pessoa Física”.
 O sistema exibe a tela de opções:
@@ -135,7 +141,8 @@ O usuário deve estar registrado no sistema como Pessoa Física.
 Pós-condição:
 A pessoa física estará cadastrada e, se for responsável por um aluno, essa informação será registrada.
 ---
-Cadastro de Professor:
+
+* Cadastro de Professor:
 Cenário Principal:
 O usuário escolhe o tipo de cadastro “Professor”.
 O sistema exibe a tela de opções:
@@ -167,7 +174,8 @@ O usuário deve ter sido previamente cadastrado como Professor.
 Pós-condição:
 O professor terá acesso às funcionalidades acadêmicas e administrativas.
 ---
-Cadastro de Fornecedor:
+
+* Cadastro de Fornecedor:
 Cenário Principal:
 O usuário escolhe o tipo de cadastro “Fornecedor”.
 O sistema exibe a tela de opções:
@@ -199,33 +207,35 @@ O usuário deve fornecer um CNPJ válido.
 Pós-condição:
 O fornecedor estará registrado e poderá acessar as funcionalidades do sistema.
 ---
-Abaixo está a nosso diagrama dos casos de uso:
+
+_Abaixo está a nosso diagrama dos casos de uso:_
 
 ![](https://raw.githubusercontent.com/MatheusMeca/projeto/refs/heads/master/documentacao/uml/os_casos_de_uso.jpg)
 
-Também desenvolvemos os prótotipos da telas de cadastro, onde deve ser necessário a seleção do tipo de cadastro à ser realizado:
+### Também desenvolvemos os prótotipos da telas de cadastro, onde deve ser necessário a seleção do tipo de cadastro à ser realizado:
 
-###Tela de seleção de cadatro:
+Tela de seleção de cadatro:
+
 
 ![tela inicial](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_3.png?token=GHSAT0AAAAAAC223IZUZEAMY5LAEBU4NZPQZ2CAMTQ)
 
-###Cadastro Aluno:
+### Cadastro Aluno:
 
 ![cadastro calouro](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_4.png?token=GHSAT0AAAAAAC223IZU6NQTZLTQVPLBK3MWZ2CANZQ)
 
-###Cadastro de novo Fornecedor:
+### Cadastro de novo Fornecedor:
 
 ![cadastro fornecedor](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_5.png?token=GHSAT0AAAAAAC223IZVUXANENXTUAW6R72YZ2CAO2A)
 
-###Cadastro Pessoa Física:
+### Cadastro Pessoa Física:
 
 ![cadastro pf](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_6.png?token=GHSAT0AAAAAAC223IZVCVGVHUGMCJAPZ76OZ2CAFZA)
 
-###Cadastro Pessoa Jurídica: 
+### Cadastro Pessoa Jurídica: 
 
 ![cadastro pj](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_8.png?token=GHSAT0AAAAAAC223IZUBAK3TM4BVSPSNYTKZ2CAHKA)
 
-###Cadastro Professor:
+### Cadastro Professor:
 
 ![cadastro professor](https://raw.githubusercontent.com/9UJAO6/senac/refs/heads/main/Screenshot_7.png?token=GHSAT0AAAAAAC223IZVO3DLVJ7VNTDVKCKMZ2CAGYA)
 
